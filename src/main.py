@@ -24,11 +24,11 @@ def start_download():
         if path is None:
             showwarning("warning", message="Please, select your directory first where you want to save "
                                            "your Video.")
-        print(path)
+        # print(path)
         d_btn.config(text="Staring Download")
         yt = YouTube(url)
         streams = yt.streams.first()
-        print(streams)
+        # print(streams)
         title = yt.title
         title_label2.config(text=title)
         showinfo("Info", message="To see your full video title, please increase the window width.")
