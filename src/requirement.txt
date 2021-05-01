@@ -1,1 +1,17 @@
+----------Requirement------
+Some module are need for this software,
+1.Pytube - for install it please follow the command otherwise your programe doesn't work properly.
 
+If you install pytube before please run this command first then run the installation command:
+
+pip uninstall pytube pytube3 pytubex
+
+For download pytube properly run this command:
+
+pip install git+https://github.com/nficano/pytube 
+
+2.If you use pycharm IDE , you shuold install Future package .
+Rules of intall package in Pycharm IDE :
+
+ 1. File>>settings>>projcet interpretor>>click on (+) icon
+ 2. search Future and click on install  
