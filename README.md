@@ -7,5 +7,5 @@
 
 # YT-Downloader
 Youtube video downloader, you can download youtube video by usig this software. Its developed by Nafis Iqbal using Tkinter and Python.
-# Requarment
+# Requirement
 Some module are needed for making this project. I mentioned it in requarments.txt file which file is inside of src.
